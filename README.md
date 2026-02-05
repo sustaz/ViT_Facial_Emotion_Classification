@@ -70,7 +70,7 @@ Epochs: 150
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3.8+
 - TensorFlow 2.x
 - CUDA (optional, for GPU acceleration)
 
