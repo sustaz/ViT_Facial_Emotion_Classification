@@ -121,9 +121,9 @@ model.fit(train_ds, validation_data=val_ds, epochs=config["num_epochs"], callbac
 
 The Vision Transformer model demonstrates outstanding performance:
 
-- **Training Accuracy**: ~87% (after 100 epochs)
-- **Validation Accuracy**: ~95% (peak performance)
-- **Training Time**: Approximately 150 epochs with learning rate scheduling
+- **Training Accuracy**: ~92% (final)
+- **Validation Accuracy**: ~95% (peak performance achieved around epoch 120)
+- **Training Time**: 150 epochs with learning rate scheduling
 
 Training logs are saved in `log.csv` for detailed analysis and visualization.
 
